@@ -20,8 +20,8 @@ description: Data Analyst.
 
     <p>   🎸  Tina player</p>
 
-    <p>   👾  Browse my projects <a href="https://www.rahmatuelsamuel.com/archives/">here</a>!</p>
+    <p>   👾  Browse my projects <a href="/archives/">here</a>!</p>
         
-    <p>   🔎  Find more about me <a href="https://www.rahmatuelsamuel.com/about/">here</a>!</p>
+    <p>   🔎  Find more about me <a href="/about/">here</a>!</p>
 
 </div>
