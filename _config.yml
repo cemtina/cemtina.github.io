@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Penyayang Tina
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://rahmatuelsamuel.com'
+url: 'https://cemtina.github.io'
 plugins:
   - jekyll-sitemap
 
