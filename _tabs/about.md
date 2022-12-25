@@ -41,7 +41,7 @@ Find more [here](https://www.RahmatuelSamuel.com/posts/liferay-portal/)
 ---
 ## 📞 Contact me
 
-<i class="fas fa-envelope" aria-hidden="true"></i> **Email**: [RahmatuelSamuel2000@gmail.com](mailto:RahmatuelSamuel@gmail.com")
+<i class="fas fa-envelope" aria-hidden="true"></i> **Email**: [RahmatuelSamuel@gmail.com](mailto:RahmatuelSamuel@gmail.com")
 
 <i class="fab fa-linkedin" aria-hidden="true"></i> **LinkedIn**: [@RahmatuelSamuel](https://www.linkedin.com/in/RahmatuelSamuel/)
 
